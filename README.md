@@ -1,5 +1,5 @@
 # csensing
-This application was generated using JHipster 4.10.2, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.10.2](http://www.jhipster.tech/documentation-archive/v4.10.2).
+<!-- This application was generated using JHipster 4.10.2, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.10.2](http://www.jhipster.tech/documentation-archive/v4.10.2).-->
 
 ## Development
 
@@ -29,7 +29,7 @@ auto-refreshes when files change on your hard drive.
 specifying a newer version in [bower.json](bower.json). You can also run `bower update` and `bower install` to manage dependencies.
 Add the `-h` flag on any command to see how you can use it. For example, `bower update -h`.
 
-For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][].
+<!-- For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][]. -->
 
 
 
